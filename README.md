@@ -1,6 +1,6 @@
 ## Cement Classification
 
-*Author:* Alexandre Romagnolli Gonçalves
+*Author:* Alexandre Romagnolli Gonçalves (@AlexandreRongo)
 
 *Date:* June 1, 2023
 
